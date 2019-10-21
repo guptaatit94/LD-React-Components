@@ -9,7 +9,7 @@
   "imageSize": 100,
   "commit": true,
   "commitConvention": "none",
-  "badgeTemplate", "[![All Contributors](https://img.shields.io/badge/all_contributors-<%= contributors.length %>-orange.svg?style=flat-square&logo=github)](#contributors)",
+  "badgeTemplate": "[![All Contributors](https://img.shields.io/badge/all_contributors-<%= contributors.length %>-orange.svg?style=flat-square&logo=github)](#contributors)",
   "contributors": [
     {
       "login": "poorpaddy",
